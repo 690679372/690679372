@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**690679372/690679372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yang-tian-hub&show_icons=true&theme=tokyonight" /> </div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
